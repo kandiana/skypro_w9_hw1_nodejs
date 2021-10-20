@@ -1,5 +1,5 @@
 {
-  "name": "1_spiteful-script",
+  "name": "3_picture-average",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "date-fns": "2.25.0"
+    "fast-average-color-node": "2.0.0"
   }
 }
